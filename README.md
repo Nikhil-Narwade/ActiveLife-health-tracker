@@ -1,11 +1,10 @@
-# ActiveLife – Health Tracker
+# MyHealth-Tracker – Complete Health & Wellness Monitoring System
 
-ActiveLife is a **full-stack health tracking web application** that allows users to monitor different aspects of their health such as food intake, exercise, sleep, water consumption, and body metrics.
+MyHealth-Tracker is a **full-stack health tracking web application** that allows users to monitor different aspects of their health such as food intake, exercise, sleep, water consumption, and body metrics.
 
 The platform provides dashboards, logs, and reports so users can track their daily habits and analyze health patterns.
 
 ---
-
 ## Features
 
 * User authentication (signup/login/logout)
@@ -44,7 +43,7 @@ The platform provides dashboards, logs, and reports so users can track their dai
 ## Project Structure
 
 ```
-ActiveLife-health-tracker
+MyHealth-Tracker
 │
 ├── index.php
 ├── dashboard.php
@@ -93,7 +92,7 @@ Install **PHP** and **MySQL** on your system.
 ### 2. Clone the Repository
 
 ```
-git clone https://github.com/Nikhil-Narwade/ActiveLife-health-tracker.git
+git clone https://github.com/Nikhil-Narwade/MyHealth-Tracker.git
 ```
 
 ### 3. Import Database
